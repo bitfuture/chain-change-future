@@ -1,2 +1,3 @@
 # 目录
-* [序](README.md)
+* [序言](README.md)
+* [区块链基础](blockchain-basis.md)
