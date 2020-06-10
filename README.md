@@ -30,4 +30,4 @@
 
 大瘟疫、经济萧条的时代背景下，如何规避行业风险，如何踩着时代的鼓点，如何拥抱新技术的变化，欢迎来一起探讨!
 
-![introction](asset/introduction_001_20200610.png)
+![introction](https://cdn.jsdelivr.net/gh/bitfuture/chain-change-future@master/asset/introduction_001_20200610.png)
