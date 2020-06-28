@@ -6,3 +6,4 @@
 * [案例分析一：智慧农场农产品溯源](case1.md)
 * [区块链开发的注意事项](blockchain-precautions.md)
 * [新基建中的区块链机遇](blockchain-opportunity.md)
+* [区块链新浪潮](blockchain-wave.md)
